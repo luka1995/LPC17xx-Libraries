@@ -1,0 +1,14 @@
+#LPC17xx Libraries
+
+Created by Luka Penger
+http://lukapenger.eu
+
+http://lpprojects.eu
+
+##License
+
+This code is distributed under the terms and conditions of the [MIT license](https://github.com/luka1995/LPC17xx-Libraries/blob/master/LICENSE).
+
+##Change log
+
+A brief summary of each LPC17xx Libraries release can be found on the [wiki](https://github.com/luka1995/LPC17xx-Libraries/wiki/Change-log).
