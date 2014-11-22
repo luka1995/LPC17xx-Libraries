@@ -113,7 +113,6 @@ extern void SSP1_IRQHandler ( void );
 extern void SSP_SSELToggle( uint32_t portnum, uint32_t toggle );
 extern void SSP0Init( void );
 extern void SSP1Init( void );
-extern void SSP2Init( void );
 extern void SSPSend( uint32_t portnum, uint8_t *Buf, uint32_t Length );
 extern void SSPReceive( uint32_t portnum, uint8_t *buf, uint32_t Length );
 
